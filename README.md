@@ -16,4 +16,4 @@ Features/Highlights:
 ->Visualized employee distribution based on age, gender, education, and department for better workforce insights.
 ->Analyzed salary patterns, job satisfaction levels, and work-life balance factors influencing employee retention.
 screenshots:
-
+![Dashboard preview](https://github.com/Abdulll17/HR-Analytics-PowerBI-Dashboard/blob/main/Snapshot%20of%20HR%20Analytics%20Dashboard.png)
